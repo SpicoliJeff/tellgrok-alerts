@@ -2,6 +2,7 @@
   "name": "tellgrok-alerts",
   "version": "1.0.0",
   "private": true,
+  "type": "module",
   "dependencies": {
     "@supabase/supabase-js": "^2.45.4",
     "resend": "^3.5.0"
